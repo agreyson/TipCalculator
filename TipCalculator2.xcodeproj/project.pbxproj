@@ -405,6 +405,7 @@
 				C84122811A8C34A500FCB446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C84122821A8C34A500FCB446 /* Build configuration list for PBXNativeTarget "TipCalculator2Tests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				C84122841A8C34A500FCB446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
