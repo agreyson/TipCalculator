@@ -12,6 +12,7 @@ import UIKit
 class ViewController: UIViewController {
 
     // ADDED A COMMENT
+    // ADDED ANOTHER COMMENT
     @IBOutlet weak var billAmountLabel: UILabel!
     @IBOutlet weak var customTipPercentageLabel1: UILabel!
     @IBOutlet weak var customTipPercentageLabel2: UILabel!
